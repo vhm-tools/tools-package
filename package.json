@@ -1,0 +1,28 @@
+{
+  "name": "@vhm/tools",
+  "module": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "bun src/index.js",
+    "dev": "bun --watch src/index.js"
+  },
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "description": "Notification Infrastructure",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vhm-tools/tools-package.git"
+  },
+  "author": "VHM",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vhm-tools/tools-package/issues"
+  },
+  "homepage": "https://github.com/vhm-tools/tools-package#readme"
+}
