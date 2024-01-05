@@ -1,7 +1,8 @@
 repo_name: vhm-tools/tools-package
-report_id: 0fdb40acf2fab0c788b67ffa2656fa94
+report_id: 6526a57a19950beb50c3b249758324e5
+version: 0.1
 repo_type: Public
-timestamp: '2023-12-14T13:14:01+00:00'
+timestamp: '2024-01-05T08:37:22+00:00'
 requested_by: vhm205
 provider: github
 branch: main
@@ -16,6 +17,7 @@ tools:
   category: Languages & Frameworks
   sub_category: Languages
   image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/vhm-tools/tools-package
   detection_source: Repo Metadata
 - name: Git
   description: Fast, scalable, distributed revision control system
@@ -25,4 +27,5 @@ tools:
   category: Build, Test, Deploy
   sub_category: Version Control System
   image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/vhm-tools/tools-package
   detection_source: Repo Metadata
